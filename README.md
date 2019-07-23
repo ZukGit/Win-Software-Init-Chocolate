@@ -440,6 +440,26 @@ choco install chocolateygui -y
 choco install wireshark -y
 choco install golang -y              # go 语言
 choco install intellijidea-community -y     # intelij
+choco install google-chrome-x64 -y
+
+choco install osquery -y
+https://blog.spoock.com/2018/11/26/osquery-intro/
+choco install cmder -y
+choco install googledrive -y
+
+choco install kubernetes-cli -y
+
+choco install docker -y
+choco install everything -y
+choco install ffmpeg -y
+choco install ninja -y
+choco install cpu-z.install -y
+
+choco install googleearth -y
+choco install mysql -y
+ choco install vnc-viewer -y
+choco install docker-for-windows -y
+https://chocolatey.org/packages?sortOrder=package-download-count&page=10&prerelease=False&moderatorQueue=False
 
 ```
 
