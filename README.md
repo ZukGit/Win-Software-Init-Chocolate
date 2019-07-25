@@ -442,7 +442,7 @@ choco install golang -y              # go 语言
 choco install intellijidea-community -y     # intelij
 choco install google-chrome-x64 -y
 
-choco install osquery -y
+choco install osquery -y              # facebook开发  osqueryi.exe
 https://blog.spoock.com/2018/11/26/osquery-intro/
 choco install cmder -y
 choco install googledrive -y
@@ -456,10 +456,148 @@ choco install ninja -y
 choco install cpu-z.install -y
 
 choco install googleearth -y
+choco install googleearthpro -y
+
 choco install mysql -y
  choco install vnc-viewer -y
 choco install docker-for-windows -y
 https://chocolatey.org/packages?sortOrder=package-download-count&page=10&prerelease=False&moderatorQueue=False
+choco install androidstudio -y
+choco install dart-sdk -y
+choco install beyondcompare  -y
+choco install pycharm-community -y
+
+choco install 360ts -y      ### 360安全管家
+choco install sharex   -y    ## 屏幕录制软件
+choco install screentogif  -y   ## 录制屏幕GIF
+choco install graphviz -y         ## 点图
+
+choco install jenkins -y   ## 持续集成CI-jenkins
+
+choco install markdownpad2 -y   ### markdownpad
+choco install exiftool -y      ##  查看图片的 exif的值
+ 
+choco install tablacus -y   ## 标签文件
+
+choco install fsviewer -y    ## 图片尺寸 批量查看
+
+
+http://plantuml.com/zh/sequence-diagram
+https://blog.csdn.net/junhuahouse/article/details/80767632
+ choco install plantuml -y          ## 类图流程图
+choco install software-ideas-modeler -y   ## UML  类图 流程图
+choco install mediainfo -y    ## 多媒体文件参数显示软件
+https://chocolatey.org/packages?sortOrder=package-download-count&page=21&prerelease=False&moderatorQueue=False
+
+
+
+choco install adb  -y    ##  安卓ADB
+
+
+choco install geogebra -y  ## 几何画板的动态数学软件
+choco install geogebra6 -y  
+
+choco install potplayer  -y  ##  视频播放器
+
+
+choco install clover -y     ## 文件标签
+
+choco install webstorm  -y    ##  html 开发 
+
+
+choco install hwmonitor -y     ## cpu 检测
+
+
+choco install skypeforbusiness -y    ## skype
+
+choco install clipgrab -y    ##  视频 url 下载到本地
+
+choco install dex2jar  -y     ## 解析 class 为 jar
+
+
+choco install rapidee -y   ## 环境变量编辑器
+
+choco install copyq -y    ##  剪切板增强工具
+choco install clipx -y    ##  多保存复制剪切板
+
+choco install geekuninstaller -y    ## 卸载工具
+
+
+choco install apktool -y     ## apktool 安卓工具
+
+
+
+choco install choco-package-list-backup  -y    ## 生成chocolate的当前配置文件  方便移植到其他机器
+choco install chocolateyexplorer -y            ##  看不懂
+
+
+https://blog.csdn.net/thinkeydeng/article/details/82758076
+choco install wox -y    ## Wox工具使用-释放双手的神器（window快速搜索文件启动程序软件）
+
+
+
+choco install cheatengine  -y    ## 进程查看器 cheatengine
+
+
+
+choco install wps-office-free  -y     ##  WPS套件
+
+安装离线宝  https://kapeli.com/dash#docsets
+https://zealusercontributions.now.sh/
+choco install zeal.install -y     ## 开发程序API
+
+choco install orwelldevcpp -y    ## DevC  C语言IDE
+
+
+
+choco install shadowsocks  -y    ## VPN
+
+https://chocolatey.org/packages?sortOrder=package-download-count&page=51&prerelease=False&moderatorQueue=False
+
+
+choco install fscapture -y    ## 滚动截图工具
+
+
+choco install systemninja -y   ## 系统清理软件 开机启动管理
+
+
+choco install nexusfile -y    ## 双窗口文件资源管理器软件
+
+choco install time4popcorn -y    ## 种子边下载边观看
+
+choco install tcpview -y       ##   tcp 连接显示软件
+
+
+choco install usbdeview -y     ##  检测USB使用记录
+
+
+choco install dexpot -y   ## 类似Linux下工作区的软件 
+
+
+choco install dspeech -y   ##  文本转语音工具
+
+choco install mactype -y   ##  字体软件
+
+choco install aquasnap -y   ## 桌面排版对齐软件  按住shift 然后拖拽窗口到边缘
+
+
+choco install aida64-extreme   -y   ##  系统信息工具
+
+choco install renamer   -y    ## 批量依据规则重命名软件
+
+choco install javadecompiler-gui  -y    ## JD-gui 查看Java代码工具
+
+choco install haroopad -y   ### 同markdownpad2一样的 markdown编辑器 当时 Linux Mac  Win 通用
+choco install teamviewer9 -y  ##  远程控制 teamviewer
+
+https://www.sohu.com/a/193342064_278730
+choco install stickies -y   ## 便签   闹钟  抖动
+
+choco install flutter  -y    ## google的  flutter的 SDK
+
+choco install free-hex-editor-neo  -y    ##  二进制查看软件
+
+https://chocolatey.org/packages?sortOrder=package-download-count&page=71&prerelease=False&moderatorQueue=False
 
 ```
 
