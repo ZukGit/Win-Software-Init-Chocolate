@@ -599,6 +599,46 @@ choco install free-hex-editor-neo  -y    ##  二进制查看软件
 
 https://chocolatey.org/packages?sortOrder=package-download-count&page=71&prerelease=False&moderatorQueue=False
 
+
+https://chocolatey.org/packages?sortOrder=package-download-count&page=71&prerelease=False&moderatorQueue=False
+
+choco install docfetcher -y    ##  文件内容搜索工具 http://news.mydrivers.com/1/585/585900.htm
+
+choco install jsonedit -y    ##  json 编辑器
+
+choco install ecm -y    ##  右键菜单管理
+
+choco install zoomit -y  ##  屏幕标注 放大 演示工具 Ctrl+1 方法   Ctrl+2 书写  https://www.jianshu.com/p/76b78af068f5 
+
+choco install wps-office-free -y   ##  金山WPS 
+
+choco install activepresenter  -y   ##  录屏软件 
+
+
+choco install nbfc -y   ##  笔记本风扇转数调节软件  https://www.playbeta.net/download/13574.html
+
+https://chocolatey.org/packages?sortOrder=package-download-count&page=83&prerelease=False&moderator
+
+choco install ollydbg -y   ##  软件逆向分析工具
+
+
+choco install mousecontroller -y   ##  鼠标功能自定义软件  左击  右击  上下滚动   https://www.cr173.com/soft/24470.html
+
+
+choco install ghidra -y  ## 来自美国NSA航天局的逆向工程软件
+
+
+choco install google-hangouts-chrome  -y   ## 谷歌浏览器 hangout聊天软件
+
+
+choco install wordpress-com-for-desktop -y   ##  没用过  先记录
+
+
+choco install npppluginmanager -y    ##  notepad 插件管理
+
+https://chocolatey.org/packages?sortOrder=package-download-count&page=103&prerelease=False&moderatorQueue=False
+
+
 ```
 
 
