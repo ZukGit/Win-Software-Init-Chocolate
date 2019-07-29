@@ -11,12 +11,12 @@ choco.exe
 Chocolatey v0.10.15
 Please run 'choco -?' or 'choco <command> -?' for help menu.
 
-
+  
 
 # Chocolatey的官网：
 https://chocolatey.org/
 https://chocolatey.org/install
-https://chocolatey.org/packages    可安装包搜索页面
+https://chocolatey.org/packages      可安装包搜索页面
 
 
 # 安装Chocolatey命令
