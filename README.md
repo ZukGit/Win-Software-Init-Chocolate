@@ -639,6 +639,68 @@ choco install npppluginmanager -y    ##  notepad 插件管理
 https://chocolatey.org/packages?sortOrder=package-download-count&page=103&prerelease=False&moderatorQueue=False
 
 
+choco install liteide  -y    ## go 语言集成开发环境 IDE
+
+
+http://www.pc6.com/softview/SoftView_281340.html
+碰到一些软件上的文本信息就不能进行复制了。Textify可以轻松复制软件中的文本信息，功能十分实用。默认采用的是shift+鼠标中键的方法进行复制。
+choco install textify -y  ## 不可复制文本窗口的文字变得可复制的工具
+
+
+choco install scummvm -y   ## 传统 Dos 时代游戏平台
+
+
+choco install imageconverter -y    ##  多图像转为 PDF文件的工具
+
+
+
+
+
+
+http://www.pc6.com/softview/SoftView_556776.html
+SG TCP Optimizer便携版能够通过调整系统的TTL、TCP/IP、宽带延迟、MTU、注册表等网络参数有效优化网络环境，提升上网速度！
+choco install tcpoptimizer -y   ##  调整系统的TTL、TCP/IP、宽带延迟、MTU、注册表等网络参数
+
+
+
+choco install turnedontimesview -y   ##  查看电脑开关记录软件  http://www.greenxf.com/soft/234415.html
+
+
+choco install  RapidMiner -y    ## 数据挖掘工具
+
+
+choco install exiftoolgui -y    ##  图片 exif查看工具
+
+
+iReboot是一款非常适合多系统的电脑，能够在当前系统下直接选择下次重启的系统，而不必担心重启时错过系统选择界面，导致不必要的再次重启！
+choco install ireboot -y    ##  在当前系统下直接选择下次重启的系统 http://www.pc0359.cn/downinfo/22615.html
+
+
+
+
+http://www.pc0359.cn/downinfo/95678.html
+choco install excelconverter -y   ## excel转换工具
+
+
+https://chocolatey.org/packages?sortOrder=package-download-count&page=109&prerelease=False&moderatorQueue=False
+
+
+
+runasdate 64位版是一款用来破解有时间限制软件的小工具，runasdate可以帮助用户建立在指定的日期和时间运行程序
+choco install runasdate -y    ##  http://www.huacolor.com/soft/23751.html
+
+
+
+
+
+
+http://www.pc6.com/softview/SoftView_31106.html
+choco install battoexeconverter -y    ##  bat文件转为exe可执行文件的工具
+
+https://chocolatey.org/packages?sortOrder=package-download-count&page=112&prerelease=False&moderatorQueue=False
+
+
+
 ```
 
 
